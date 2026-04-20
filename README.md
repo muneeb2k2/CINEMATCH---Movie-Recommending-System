@@ -17,8 +17,8 @@ A sleek, modern movie recommendation system built with Streamlit that suggests m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cinematch.git
-   cd cinematch
+   git clone https://github.com/muneeb2k2/CINEMATCH---Movie-Recommending-System.git
+   cd CINEMATCH---Movie-Recommending-System
    ```
 
 2. Install dependencies:
