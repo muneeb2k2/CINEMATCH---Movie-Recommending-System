@@ -70,6 +70,8 @@ cinematch/
 
 ## Contributing
 <img width="737" height="569" alt="image" src="https://github.com/user-attachments/assets/ebbc75de-8ec9-4c15-9b04-70258028eaa9" />
+<img width="737" height="569" alt="image" src="https://github.com/user-attachments/assets/e8fd2678-fccb-4154-9e41-1275e3c8f079" />
+
 
 
 Feel free to fork and contribute! Open an issue for bugs or feature requests.
