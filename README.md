@@ -69,7 +69,6 @@ cinematch/
 ```
 
 ## Contributing
-<img width="737" height="569" alt="image" src="https://github.com/user-attachments/assets/ebbc75de-8ec9-4c15-9b04-70258028eaa9" />
 <img width="737" height="569" alt="image" src="https://github.com/user-attachments/assets/3029a3e8-a826-4c08-82e5-1c9a8605480b" />
 <img width="732" height="580" alt="image" src="https://github.com/user-attachments/assets/d0197b3c-36b6-4050-812c-cdbecbca27a9" />
 
