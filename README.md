@@ -69,6 +69,8 @@ cinematch/
 ```
 
 ## Contributing
+<img width="737" height="569" alt="image" src="https://github.com/user-attachments/assets/ebbc75de-8ec9-4c15-9b04-70258028eaa9" />
+
 
 Feel free to fork and contribute! Open an issue for bugs or feature requests.
 
